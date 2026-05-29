@@ -13,7 +13,7 @@ body {
 
 /* 2. Header con Imagen de Fondo */
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFoiWDFGsjbksxCgb8r7vUiGNmcmRwYH1Pg&s');
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://th.bing.com/th/id/R.7f78430591e33c32333527947788c907?rik=5Bcovj%2banpPfzA&riu=http%3a%2f%2fparquesalegres.org%2fwp-content%2fuploads%2f2018%2f02%2fiStock_42322328_LARGE.jpg&ehk=jmmKJ3ECMsNEhF9d56QleUk9byRVWu3%2fBTbQR8m5kIY%3d&risl=1&pid=ImgRaw&r=0');
     background-size: cover;
     background-position: center;
     height: 300px;
